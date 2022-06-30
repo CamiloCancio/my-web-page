@@ -2,3 +2,8 @@ Vocabulario github
 
 Branch: crear nueva rama
 commit: son cambios realizados (se aceptan o no)
+
+comandos git
+git status: verifica el estado de lo eliminado o subido.
+git rm: borra archivo deseado
+git commit: hace un commit (para salir del modo se usa ZZ
