@@ -1,0 +1,4 @@
+Vocabulario github
+
+Branch: crear nueva rama
+commit: son cambios realizados (se aceptan o no)
