@@ -7,3 +7,7 @@ comandos git
 git status: verifica el estado de lo eliminado o subido.
 git rm: borra archivo deseado
 git commit: hace un commit (para salir del modo se usa ZZ
+git reset --soft head-1: deshacer un commit
+git commit -m "arregla el diseño de la pagina web": 
+
+git push: para que el commit se suba a la cuenta de git hub
